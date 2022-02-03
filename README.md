@@ -19,10 +19,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="" width="70%">
-</div>
-
 다른 연애인 도플갱어 블로그나 얼굴 인식 기술을 소개하는 자료를 보면 항상 등장하는 사람이 있는데, 바로 Will Ferrell(배우)과 Chad Smith(뮤지션) 입니다.
 
 <div align="center">
@@ -30,10 +26,6 @@
 </div>
 
 실제로 두 사람은 닮은 꼴로 유명해서 The Tonight Show라는 토크쇼에 출연했었습니다.
-
-<div align="center">
-  <img src="https://blog.kakaocdn.net/dn/kMFec/btrrh52fUDD/LO0ajhYsm2ZQvdzqXVAxO1/img.gif" width="70%">
-</div>
 
 [이전 글](https://yunwoong.tistory.com/83)에서 얼굴을 검출하는 방법을 소개했었는데, 이번에는 **얼굴 고유한 특징을 찾아 구별해내는 얼굴 인식 기술**을 구현하는 방법을 소개하도록 하겠습니다.
 
